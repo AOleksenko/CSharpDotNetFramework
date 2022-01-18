@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0jdUEd6H4OUnT4XWRWFX2z1Z05gnXTz6JsADPrI+4xrMn6Gi3JK2EAQ3czq7lBPxK8kRGo/gum1G0ccx35/PeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aleks\\Desktop\\AOl\\Course\\Framework\\EATestProject\\EATestProject\\EAAutoFramework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleks\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\aleks\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\aleks\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

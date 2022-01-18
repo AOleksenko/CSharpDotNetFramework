@@ -1,0 +1,16 @@
+C:\Users\aleks\Desktop\AOl\Course\Framework\EATestProject\EAAEmployeeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\aleks\Desktop\AOl\Course\Framework\EATestProject\EAAEmployeeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\aleks\Desktop\AOl\Course\Framework\EATestProject\EAAEmployeeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\aleks\Desktop\AOl\Course\Framework\EATestProject\EAAEmployeeTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\aleks\Desktop\AOl\Course\Framework\EATestProject\EAAEmployeeTest\bin\Debug\EAAEmployeeTest.dll
+C:\Users\aleks\Desktop\AOl\Course\Framework\EATestProject\EAAEmployeeTest\bin\Debug\EAAEmployeeTest.pdb
+C:\Users\aleks\Desktop\AOl\Course\Framework\EATestProject\EAAEmployeeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\aleks\Desktop\AOl\Course\Framework\EATestProject\EAAEmployeeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\aleks\Desktop\AOl\Course\Framework\EATestProject\EAAEmployeeTest\bin\Debug\WebDriver.dll
+C:\Users\aleks\Desktop\AOl\Course\Framework\EATestProject\EAAEmployeeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\aleks\Desktop\AOl\Course\Framework\EATestProject\EAAEmployeeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\aleks\Desktop\AOl\Course\Framework\EATestProject\EAAEmployeeTest\obj\Debug\EAAEmployeeTest.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\AOl\Course\Framework\EATestProject\EAAEmployeeTest\obj\Debug\EAAEmployeeTest.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\AOl\Course\Framework\EATestProject\EAAEmployeeTest\obj\Debug\EAAEmployeeTest.dll
+C:\Users\aleks\Desktop\AOl\Course\Framework\EATestProject\EAAEmployeeTest\obj\Debug\EAAEmployeeTest.pdb
+C:\Users\aleks\Desktop\AOl\Course\Framework\EATestProject\EAAEmployeeTest\bin\Debug\WebDriver.Support.dll
